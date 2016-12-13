@@ -1,0 +1,2 @@
+# smartmi
+Daily build plist
